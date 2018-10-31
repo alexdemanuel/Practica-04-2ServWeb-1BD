@@ -1,7 +1,5 @@
 # Practica-04-2ServWeb-1BD
 
-# Practica-03-Lamp-Stack-2Maquinas-Vagrant
-
 # Creación de la máquina con vagrant
 
 - Inicializamos vagrant que nos creara un archivo `Vagrantfile`.
